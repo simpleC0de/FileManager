@@ -1,0 +1,12 @@
+C:\Users\t.hetznecker\source\repos\FileManager\FileManager\bin\Release\FileManager.exe.config
+C:\Users\t.hetznecker\source\repos\FileManager\FileManager\bin\Release\FileManager.exe
+C:\Users\t.hetznecker\source\repos\FileManager\FileManager\bin\Release\FileManager.pdb
+C:\Users\t.hetznecker\source\repos\FileManager\FileManager\obj\Release\FileManager.CopyUtility.resources
+C:\Users\t.hetznecker\source\repos\FileManager\FileManager\obj\Release\FileManager.FileRenamer.resources
+C:\Users\t.hetznecker\source\repos\FileManager\FileManager\obj\Release\FileManager.Form1.resources
+C:\Users\t.hetznecker\source\repos\FileManager\FileManager\obj\Release\FileManager.PNGConvert.resources
+C:\Users\t.hetznecker\source\repos\FileManager\FileManager\obj\Release\FileManager.Properties.Resources.resources
+C:\Users\t.hetznecker\source\repos\FileManager\FileManager\obj\Release\FileManager.csproj.GenerateResource.cache
+C:\Users\t.hetznecker\source\repos\FileManager\FileManager\obj\Release\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\t.hetznecker\source\repos\FileManager\FileManager\obj\Release\FileManager.exe
+C:\Users\t.hetznecker\source\repos\FileManager\FileManager\obj\Release\FileManager.pdb
